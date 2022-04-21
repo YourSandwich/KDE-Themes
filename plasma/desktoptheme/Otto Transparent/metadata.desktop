@@ -1,0 +1,28 @@
+[Desktop Entry]
+Name=Otto Transparent
+X-KDE-PluginInfo-Author= made by jomada edited by yoursandwich
+X-KDE-PluginInfo-Category=Plasma Theme
+X-KDE-PluginInfo-Depends=plasma-desktop
+X-KDE-PluginInfo-Email=norbert23pl@gmail.com
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=LGPL
+X-KDE-PluginInfo-Name=Otto
+X-KDE-PluginInfo-Version=1.7
+X-KDE-PluginInfo-Website=
+X-Plasma-API=5.0
+comment=Otto Transparent theme
+
+[Wallpaper]
+defaultFileSuffix=.png
+defaultHeight=1080
+defaultWallpaperTheme=
+defaultWidth=1920
+
+[ContrastEffect]
+enabled=false
+contrast=0.2
+intensity=0.4
+saturation=1.7
+
+[AdaptiveTransparency]
+enabled=true
